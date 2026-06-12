@@ -1,0 +1,8 @@
+{
+  "name": "Muthu P - Portfolio",
+  "description": "Modern, interactive personal portfolio website for Muthu P, Software Engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
